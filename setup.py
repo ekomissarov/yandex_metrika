@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pysea-yandex-metrika", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Eugene Komissarov",
     author_email="Yandex Metrika base",
     long_description=long_description,
